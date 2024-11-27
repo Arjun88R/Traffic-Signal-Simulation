@@ -1,4 +1,4 @@
-##**Traffic Signal Optimization Simulation**
+**Traffic Signal Optimization Simulation**
 
 This project simulates and optimizes traffic light durations at a 4-lane intersection using MATLAB. The goal is to manage vehicle queues and minimize congestion dynamically.
 
