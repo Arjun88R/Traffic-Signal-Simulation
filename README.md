@@ -1,23 +1,23 @@
-Traffic Signal Optimization Simulation
+**Traffic Signal Optimization Simulation**
 
 This project simulates and optimizes traffic light durations at a 4-lane intersection using MATLAB. The goal is to manage vehicle queues and minimize congestion dynamically.
 
-## Features
+Features
 - Dynamically allocated green light durations based on traffic conditions.
 - Prioritization of congested lanes using a queue threshold that essentially keeps a cap on the queue length.
 - Visualization of real-time traffic queues and average queue size trends.
 
-## Simulation Details
+Simulation Details
 - Number of Lanes: 4
 - Traffic Arrival Rates: Randomized using Poisson distribution.
 - Green Light Optimization: Adjusted dynamically with priority for congested lanes.
 
-## Output
+Output
 1. Real-time queue sizes for each lane.
 2. Average queue size trends over time.
 3. Final statistics on total vehicles processed.
 
-# Results
+Results
 Below is an example of the average queue size trend:
 
 
