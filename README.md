@@ -30,7 +30,7 @@ This project simulates and optimizes traffic light durations at a 4-lane interse
    **cd traffic-simulation**
    
 3. Open the simulation.m file in MATLAB.
-  Run the file by pressing the Run button or typing ->
+   Run the file by pressing the Run button or typing ->
 
-  **run('simulation.m')**
+   **run('simulation.m')**
 
